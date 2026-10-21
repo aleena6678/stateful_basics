@@ -1,4 +1,4 @@
-# 🌟 Stateful Basic
+# 🌟 Stateful Basics
 
 A simple yet elegant Flutter application demonstrating state management using the `provider` package.
 
